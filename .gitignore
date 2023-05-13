@@ -1,3 +1,5 @@
+aws
+*.zip
 *.js
 !jest.config.js
 *.d.ts
