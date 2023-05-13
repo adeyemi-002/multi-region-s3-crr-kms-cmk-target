@@ -7,7 +7,8 @@ The construct defines an interface (`MultiRegionS3CrrKmsCmkTargetProps`) to conf
 
 ## Useful commands
 
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
+- `npm run build` compile typescript to js
+- `npm run watch` watch for changes and compile
+- `npm run test` perform the jest unit tests
+
 # multi-region-s3-crr-kms-cmk-target
